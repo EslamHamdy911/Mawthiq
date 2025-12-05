@@ -1,0 +1,22 @@
+{
+  "name": "Mawthiq README Generator",
+  "short_name": "Mawthiq",
+  "description": "Professional AI README Generator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1005/1005141.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1005/1005141.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
